@@ -1,4 +1,4 @@
-# project-status-report
+# Project-status-report
 Weekly project status tracking
 
 ## Week 1 - September 15th
